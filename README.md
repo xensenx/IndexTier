@@ -101,7 +101,3 @@ It’s a workspace, not a social platform.
 
 ---
 
-## License
-
-This project is open for personal use, learning, and modification.  
-Do whatever you want with it. Just don’t pretend you wrote it if you didn’t.
